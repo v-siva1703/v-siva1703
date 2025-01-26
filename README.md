@@ -8,6 +8,8 @@ I'm MCA graduate with a strong foundation in Software Development and Data Analy
 
 ![Python](https://github.com/user-attachments/assets/ea442310-42d7-4fd0-8357-5efb8159d8da) 
 ![Java](https://github.com/user-attachments/assets/4a9684bc-9bff-4c25-b53f-d1c27f0271c4)
+![download](https://github.com/user-attachments/assets/e62fd871-ce6e-4dcf-b524-19cc1240f548)
+
 
 
 **📈 DA & DS:**
